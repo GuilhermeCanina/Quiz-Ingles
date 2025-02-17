@@ -19,11 +19,9 @@ Este é um quiz interativo desenvolvido para ajudar os usuários a praticarem e 
 *Tela mostrando o resultado final do quiz.*
 
 ## Nome do Professor que Testou o Quiz
-- **Professor João Silva**: O professor responsável por testar o quiz e fornecer feedback sobre a aplicação.
+- **Professor Nivaldo**: O professor responsável por testar o quiz e fornecer feedback sobre a aplicação.
 
 ## Comentário do Professor
 "O quiz de inglês está bem estruturado e oferece uma boa dinâmica para os alunos testarem seus conhecimentos. Gostei das perguntas, que são bem variadas e cobrem tópicos relevantes. Uma sugestão de melhoria seria adicionar um sistema de feedback personalizado, que explique os erros e acertos de cada questão, para ajudar os alunos a aprenderem mais com a experiência."
 
 ---
-
-Esse README serve para documentar o quiz de inglês, suas tecnologias, e também apresentar o feedback do professor que testou a aplicação. Não se esqueça de substituir os caminhos das imagens (`path/to/screenshot1.png`, etc.) pelas imagens reais do seu projeto.
