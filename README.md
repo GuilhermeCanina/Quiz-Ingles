@@ -9,14 +9,11 @@ Este é um quiz interativo desenvolvido para ajudar os usuários a praticarem e 
 
 ## Print das Telas do Quiz
 
-![Tela inicial do Quiz](path/to/screenshot1.png)
-*Tela inicial do Quiz.*
+![Image](https://github.com/user-attachments/assets/e9ec3c07-4aa2-4745-ae65-96ca8cd6bec9)
 
-![Tela das perguntas do Quiz](path/to/screenshot2.png)
-*Tela exibindo as perguntas do quiz.*
+![Image](https://github.com/user-attachments/assets/999cc99d-f614-4ee2-a43f-9eb04cd7b2f8)
 
-![Tela de resultados do Quiz](path/to/screenshot3.png)
-*Tela mostrando o resultado final do quiz.*
+![Image](https://github.com/user-attachments/assets/4336eb41-17a2-4738-9239-89c8e7617126)
 
 ## Nome do Professor que Testou o Quiz
 - **Professor Nivaldo**: O professor responsável por testar o quiz e fornecer feedback sobre a aplicação.
