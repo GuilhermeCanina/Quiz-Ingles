@@ -10,6 +10,7 @@ Este é um quiz interativo desenvolvido para ajudar os usuários a praticarem e 
 ## Print das Telas do Quiz
 
 ![Image](https://github.com/user-attachments/assets/e9ec3c07-4aa2-4745-ae65-96ca8cd6bec9)
+width=50%
 
 ![Image](https://github.com/user-attachments/assets/999cc99d-f614-4ee2-a43f-9eb04cd7b2f8)
 
